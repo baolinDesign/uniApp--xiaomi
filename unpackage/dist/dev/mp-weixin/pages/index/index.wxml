@@ -1,0 +1,1 @@
+<view class="content"><swiper indicator-dots autoplay interval="{{3000}}" duration="{{1000}}"><swiper-item><view class="swiper-item"><image style="height:350rpx;" src="../../static/images/demo/demo4.jpg" lazy-load></image></view></swiper-item></swiper></view>
